@@ -7,7 +7,7 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 
 function InfoCard() {
   return (
-    <div className="sticky ml-[10vw] poppins h-[550px] w-[22vw] overflow-hidden p-[2vw] rounded-[1vw] left-0 top-[10vh] bg-zinc-100">
+    <div className="sticky ml-[10vw] poppins h-[600px] w-[22vw] overflow-hidden p-[2vw] rounded-[1vw] left-0 top-[10vh] bg-zinc-100">
       <div className="relative h-[100%] w-[100%]">
         <div className="flex justify-center">
           <img
